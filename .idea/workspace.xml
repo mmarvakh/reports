@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9580b3e0-dd2e-4e6b-b75d-2127b19ba1d6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="SQLite - db.sqlite3" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="SQLite - db.sqlite3" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="SQLite - db.sqlite3" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="SQLite - db.sqlite3" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+        <item name="answers_on_requests: table" type="3d80ac25:SqliteImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="SQLite - db.sqlite3" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+        <item name="links: table" type="3d80ac25:SqliteImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1g32I5Tc0LciINJdaYK3kaKa6nf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="demo-project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demo_project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo_project/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9580b3e0-dd2e-4e6b-b75d-2127b19ba1d6" name="Default Changelist" comment="" />
+      <created>1597328872127</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597328872127</updated>
+      <workItem from="1597328873298" duration="8126000" />
+      <workItem from="1597482268842" duration="65000" />
+      <workItem from="1597482340467" duration="599000" />
+      <workItem from="1597915368611" duration="77000" />
+      <workItem from="1597915454271" duration="15032000" />
+      <workItem from="1597996368159" duration="11000" />
+      <workItem from="1598353495288" duration="674000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="873" y="351" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597920229969">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="873" y="351" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1597920229969" />
+    <state x="949" y="389" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597331163155">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="949" y="389" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1597331163155" />
+    <state x="1011" y="398" key="FileChooserDialogImpl" timestamp="1597996377279">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1011" y="398" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1597996377279" />
+    <state width="2505" height="389" key="GridCell.Tab.0.bottom" timestamp="1597931500475">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2505" height="389" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1597931500475" />
+    <state width="2505" height="389" key="GridCell.Tab.0.center" timestamp="1597931500475">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2505" height="389" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1597931500475" />
+    <state width="2505" height="389" key="GridCell.Tab.0.left" timestamp="1597931500475">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2505" height="389" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1597931500475" />
+    <state width="2505" height="389" key="GridCell.Tab.0.right" timestamp="1597931500475">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2505" height="389" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1597931500475" />
+    <state x="666" y="258" key="SettingsEditor" timestamp="1597927060348">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="666" y="258" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1597927060348" />
+    <state x="1106" y="573" width="392" height="282" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1597928783649">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1106" y="573" width="392" height="282" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.2560.1400@0.0.2560.1400" timestamp="1597928783649" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/demo_project$main.coverage" NAME="main Coverage Results" MODIFIED="1597930489319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo_project" />
+  </component>
+</project>
